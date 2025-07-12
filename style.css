@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.inicio {
+    display:flex;
+    height: 100vh;
+}
+
+.foto{
+    flex: 1;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.foto img{
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+}
