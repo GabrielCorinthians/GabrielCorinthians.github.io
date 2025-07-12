@@ -55,9 +55,14 @@ body {
     gap: 1.4rem;
     margin-top: 1.4rem;
 }
-.social{
+.social a{
     display: grid;
     place-items: center;
     text-decoration: none;
-    color: gainsboro;
+    color: rgb(0, 0, 0);
+    border: 1.6px solid rgb(0, 0, 0);
+    font-size: 1.5rem;
+    border-radius: 50%;
+    padding: 0.39rem;
+    text-align: center;
 }
