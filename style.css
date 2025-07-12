@@ -70,3 +70,16 @@ body {
     color: rgb(0, 0, 0);
     background-color: rgb(133, 131, 131);
 }
+
+footer{
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+footer p{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
